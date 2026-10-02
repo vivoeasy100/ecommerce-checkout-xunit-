@@ -1,8 +1,15 @@
 # EcommerceCheckout
 
-Projeto desenvolvido como parte da disciplina de **Garantia e Gestão da Qualidade de Software** (Prof. Daniel Henrique Matos de Paiva).
+Projeto desenvolvido como parte da disciplina de **Garantia e Gestão da Qualidade de Software** (Prof. Daniel Henrique Matos de Paiva - Ânima Educação).
 
-O objetivo é gerenciar regras de checkout de uma loja online (geração de código de rastreio, cálculo de pontos de fidelidade e concessão de frete grátis), com cobertura total por testes unitários automatizados utilizando **xUnit** no **.NET 10**.
+---
+
+## 👤 Identificação do Aluno
+
+- **Nome:** Fernando Almeida de Oliveira Braga  
+- **RA:** 326132695  
+- **Disciplina:** Garantia da Qualidade de Software / Gestão e Qualidade de Software  
+- **Professor:** Daniel Henrique Matos de Paiva  
 
 ---
 

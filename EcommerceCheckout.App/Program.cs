@@ -1,3 +1,7 @@
+// Aluno: Fernando Almeida de Oliveira Braga
+// RA: 326132695
+// Disciplina: Garantia e Gestão da Qualidade de Software - Prof. Daniel Henrique Matos de Paiva
+
 using EcommerceCheckout.App;
 
 Console.WriteLine("=== EcommerceCheckout ===");
