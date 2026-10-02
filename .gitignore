@@ -427,3 +427,8 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+# Local .NET CLI runtime/telemetry folders
+.dotnet/
+.templateengine/
+.nuget/
